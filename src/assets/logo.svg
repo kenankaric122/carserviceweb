@@ -1,0 +1,39 @@
+<svg width="376.43" height="393.27" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 2">
+ <defs>
+  <mask maskUnits="userSpaceOnUse" height="109.01" width="168.2" y="-1382.83" x="2618.6" id="mask">
+   <g id="svg_1">
+    <rect id="svg_2" transform="rotate(-7.12 -142.49 214.77)" fill="url(#White_Black)" height="90.1" width="158.25" y="-1008.86" x="2792.86999" class="cls-1"/>
+   </g>
+  </mask>
+  <mask maskUnits="userSpaceOnUse" height="542.08" width="351.34" y="-1241.95" x="-3780.87" id="mask-2">
+   <g id="svg_3">
+    <rect id="svg_4" transform="rotate(-7.12 -235.41 -564.23)" fill="url(#White_Black-2)" height="510.03" width="290.37" y="-1640.42" x="-3674.01001" class="cls-2"/>
+   </g>
+  </mask>
+  <mask maskUnits="userSpaceOnUse" height="351.34" width="542.08" y="-1701.48" x="-3942.68" id="mask-3">
+   <g id="svg_5">
+    <rect id="svg_6" transform="rotate(-7.12 -167.15 -576.74)" fill="url(#White_Black-3)" height="290.37" width="510.03" y="-2098.00001" x="-3782.01001" class="cls-3"/>
+   </g>
+  </mask>
+  <linearGradient y2="0.63751" x2="0.61693" y1="-0.48646" x1="-0.33561" id="White_Black">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#231f20" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#White_Black" gradientTransform="translate(-1982.13 -4367.08) rotate(90)" y2="1270.98" x2="3486.13" y1="1597.37" x1="3971.96" id="White_Black-2"/>
+  <linearGradient xlink:href="#White_Black" gradientTransform="translate(-7226.66 -1558.42)" y2="142.05" x2="3806.99" y1="468.44" x1="4292.82" id="White_Black-3"/>
+  <linearGradient y2="1.53973" x2="0.49992" y1="-1.80492" x1="0.49992" id="New_Gradient_Swatch_copy_55">
+   <stop stop-color="#26a9e0" offset="0"/>
+   <stop stop-color="#2b388f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <polygon id="svg_7" fill="url(#New_Gradient_Swatch_copy_55)" points="156.2 245.15 115.07 219.72 145.82 257.03 174.08 291.33 174.08 256.21 156.2 245.15" class="cls-7"/>
+  <polygon id="svg_8" fill="#95231b" points="156.2 245.15 115.07 219.72 145.82 257.03 174.08 291.33 174.08 256.21 156.2 245.15" class="cls-8"/>
+  <polygon id="svg_9" fill="#003850" points="187.61 219.65 196.58 211.72 151.52 187.51 187.61 219.65" class="cls-9"/>
+  <polygon id="svg_10" fill="#e43339" points="266.8 85.61 151.52 187.51 196.58 211.72 266.8 149.65 266.8 85.61" class="cls-10"/>
+  <polygon id="svg_11" fill="#e43639" points="145.35 182.03 174.08 146.27 174.08 65.5 115.07 65.5 115.07 219.72 145.35 182.03" class="cls-11"/>
+  <path id="svg_12" fill="#e43339" d="m188.20999,-0.00001c-103.95,0 -188.21,84.26 -188.21,188.26s84.26,188.16 188.21,188.16a187.71,187.71 0 0 0 73,-14.66l-31.24,-27.64a151.56,151.56 0 0 1 -41.76,5.81c-4.77,0 -9.48,-0.23 -14.14,-0.66l0,-47.94l-28.25,-34.3l-30.75,-37.31l0,101.44a151.74,151.74 0 1 1 176.67,-22l27.47,24.22a187.62,187.62 0 0 0 57.21,-135.12c0,-104 -84.21,-188.26 -188.21,-188.26z" class="cls-12"/>
+  <polygon id="svg_13" fill="#e43339" points="187.52 219.72 187.61 219.65 151.52 187.51 151.3 187.71 115.07 219.72 151.3 251.74 311.29 393.27 311.29 329.24 187.52 219.72" class="cls-10"/>
+ </g>
+</svg>
