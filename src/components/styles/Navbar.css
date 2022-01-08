@@ -28,3 +28,7 @@ nav ul li:hover {
 nav .logo{
     width: 40px;
 }
+
+.navbar.active{
+    background:linear-gradient(rgb(20, 20, 20), rgba(0, 0, 0, 0.781));
+}
