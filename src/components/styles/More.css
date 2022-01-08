@@ -6,17 +6,19 @@
 }
 
 .more .img1{
+    background:linear-gradient(rgba(20, 20, 20, 0.7 ), rgba(255, 30, 30, 0.288)), url('../../assets/supra.jpg');
     margin-left: 5%;
     height: 100%;
-    flex: 50%;
+    flex: 100%;
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .more .text1{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     height: 100%;
     flex: 50%;
     text-align: center;
