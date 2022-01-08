@@ -24,9 +24,9 @@ const Navbar = () => {
             <img className='logo' src={logo} alt='logo'/>
             <ul>
                 <li><Link to = '/' className='link'>Home</Link></li>
-                <li><Link to = '/kenao' className='link'>Reservations</Link></li>
-                <li>Gallery</li>
-                <li>About us</li>
+                <li><Link to = '/reservations' className='link'>Reservations</Link></li>
+                <li><Link to = '/gallery' className='link'>Gallery</Link></li>
+                <li><Link to = '/aboutus' className='link'>About us</Link></li>
             </ul>
         </nav>
     )
