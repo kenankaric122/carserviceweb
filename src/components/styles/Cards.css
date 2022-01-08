@@ -4,3 +4,23 @@
     height: 90vh;
     margin-top: 10%;
 }
+
+.cards h2{
+    font-size: 16px;
+}
+
+.cards .card2{
+    height: 100%;
+    flex: 50%;
+    text-align: center;
+    flex-direction: column;
+}
+
+.cards .card1{
+    height: 100%;
+    flex: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
