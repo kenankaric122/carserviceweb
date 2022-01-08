@@ -4,6 +4,7 @@ import Home from '../components/Home'
 import More from '../components/More'
 import Cards from '../components/Cards'
 import Gallery from '../components/Gallery'
+import HomeContact from '../components/HomeContact'
 
 const Landing = () => {
     return (
@@ -13,6 +14,7 @@ const Landing = () => {
             <Cards/>
             <More/>
             <Gallery/>
+            <HomeContact/>
         </div>
     )
 }

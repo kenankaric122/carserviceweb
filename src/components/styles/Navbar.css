@@ -32,3 +32,11 @@ nav .logo{
 .navbar.active{
     background:linear-gradient(rgb(20, 20, 20), rgba(0, 0, 0, 0.781));
 }
+
+@media only screen and (max-width: 600px) {
+
+    nav ul li {
+        visibility: hidden;
+    }
+
+  }

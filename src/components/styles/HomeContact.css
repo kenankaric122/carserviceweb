@@ -1,0 +1,22 @@
+.homecontact{
+    background:linear-gradient(rgba(255, 30, 30, 0.788), rgba(126, 2, 2, 0.774)), url('../../assets/wallpaper.jpg');
+    display: flex;
+    width: 100%;
+    height: 15vh;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homecontact .textcontact{
+    color: white;
+    font-weight: bold;
+    font-size: 23px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
