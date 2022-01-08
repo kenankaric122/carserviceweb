@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 import './styles/Navbar.css';
 import logo from '../assets/logo.svg'
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     
@@ -22,8 +23,8 @@ const Navbar = () => {
         <nav className={navbar ? 'navbar active' : 'navbar'}>
             <img className='logo' src={logo} alt='logo'/>
             <ul>
-                <li>Home</li>
-                <li>Reservations</li>
+                <li><Link to = '/' className='link'>Home</Link></li>
+                <li><Link to = '/kenao' className='link'>Reservations</Link></li>
                 <li>Gallery</li>
                 <li>About us</li>
             </ul>
