@@ -32,7 +32,7 @@ nav .logo{
 }
 
 .navbar.active{
-    background:linear-gradient(rgb(20, 20, 20), rgba(0, 0, 0, 0.781));
+    background-color: rgb(41, 41, 41);
 }
 
 nav ul li .link{
@@ -46,5 +46,4 @@ nav ul li .link{
     nav ul li {
         visibility: hidden;
     }
-
   }

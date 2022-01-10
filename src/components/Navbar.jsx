@@ -21,7 +21,7 @@ const Navbar = () => {
 
     return (
         <nav className={navbar ? 'navbar active' : 'navbar'}>
-            <img className='logo' src={logo} alt='logo'/>
+        <Link to = '/' className='link'><img className='logo' src={logo} alt='logo'/></Link>    
             <ul>
                 <li><Link to = '/' className='link'>Home</Link></li>
                 <li><Link to = '/reservations' className='link'>Reservations</Link></li>

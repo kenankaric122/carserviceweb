@@ -10,7 +10,6 @@ function Footer() {
     return (
         <div className='footer'>
 
-
             <div className='f1'>
             <br/><br/>
             <img src = {logo} className='logo' />
@@ -18,7 +17,7 @@ function Footer() {
 
             <div className='f1'>
             <br/><br/>
-                <h1>Service</h1><br/>
+                <h1>Service </h1><br/>
                 <button><Link to = '/aboutus' className='link'>Our company</Link></button><br/>
                 <button><Link to = '/reservations' className='link'>Contact us</Link></button><br/>
                 <button>Our services</button><br/>

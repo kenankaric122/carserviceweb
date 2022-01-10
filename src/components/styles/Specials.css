@@ -27,3 +27,12 @@
 .specials span{
     color: rgb(255, 0, 0);
 }
+
+@media only screen and (max-width: 600px) {
+
+    .specials1{
+        background-color: white;
+        margin-bottom: 1000px;
+    }
+
+}
