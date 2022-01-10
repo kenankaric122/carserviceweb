@@ -7,7 +7,7 @@ function Choose() {
     return (
         <div className='chs2'>
 
-        <h1 style={{color : "#404040", textAlign : "center", marginTop : "10%", fontWeight : "bold", backgroundColor : "rgb(230, 230, 230)"}}><br/><br/><span>/ </span>Why choose us?<span> /</span></h1>
+        <h1 style={{color : "#404040", textAlign : "center", marginTop : "7%", fontWeight : "bold", backgroundColor : "rgb(230, 230, 230)"}}><br/><br/><span>/ </span>Why choose us?<span> /</span></h1>
         <p style={{color : "23214b", textAlign : "center", marginLeft : "10%", marginRight : "10%", fontWeight : "bold", marginTop : "3%"}}>We are a family-owned business that has been serving the local community since 1990. We always strive for the highest quality, honest and friendly service, and do our best to help you as quickly as possible.</p>
         
         <div className='choose'>

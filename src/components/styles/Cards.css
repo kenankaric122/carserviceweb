@@ -11,7 +11,9 @@ span{
 }
 
 .cards h2{
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(58, 58, 58);
 }
 
 .cards .card2{
@@ -24,8 +26,8 @@ span{
 
 .cards p{
     text-align: center;
-    margin-top: 50px;
-    color: rgb(59, 59, 59);
+    margin-top: 20px;
+    color: rgb(58, 58, 58);
 }
 
 @media only screen and (max-width: 600px) {
