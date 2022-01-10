@@ -3,15 +3,22 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './styles/Footer.css';
+import logo from '../assets/logo.svg';
 
 
 function Footer() {
     return (
         <div className='footer'>
 
+
             <div className='f1'>
             <br/><br/>
-                <h1>Information</h1><br/>
+            <img src = {logo} className='logo' />
+            </div>
+
+            <div className='f1'>
+            <br/><br/>
+                <h1>Service</h1><br/>
                 <button><Link to = '/aboutus' className='link'>Our company</Link></button><br/>
                 <button><Link to = '/reservations' className='link'>Contact us</Link></button><br/>
                 <button>Our services</button><br/>
