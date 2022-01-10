@@ -14,6 +14,7 @@
     font-size: 20px;
 }
 
+
 .footer .f1{
     font-size: 13px;
     margin-right: 7%;
@@ -35,4 +36,12 @@
 .footer .f1 .link{
     text-decoration: none;
     color: white;
+}
+
+.f1 p{
+    margin-top: 10%;
+}
+
+.f1 .icons{
+    margin-top: 10%;
 }
