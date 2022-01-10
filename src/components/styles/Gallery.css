@@ -12,7 +12,7 @@
 
 .gallery .slike1{
     height: 100%;
-    flex: 30%;
+    flex: 50%;
     text-align: center;
     flex-direction: row;
     justify-content: center;
