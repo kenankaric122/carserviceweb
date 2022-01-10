@@ -37,7 +37,8 @@ function Choose() {
             <div className='icons'>
             <FontAwesomeIcon icon = {faPeopleArrows} size = '3x' color='#ba382f'></FontAwesomeIcon>
             <p>Clients trust us</p>
-            </div>
+        </div>
+
         </div>  
         </div>
     )

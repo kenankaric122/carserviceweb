@@ -7,6 +7,7 @@ import Gallery from '../components/Gallery'
 import HomeContact from '../components/HomeContact'
 import Specials from '../components/Specials'
 import Choose from '../components/Choose'
+import Footer from '../components/Footer'
 
 const Landing = () => {
     return (
@@ -19,6 +20,7 @@ const Landing = () => {
             <Gallery/>
             <HomeContact/>
             <Specials/>
+            <Footer/>
         </div>
     )
 }
