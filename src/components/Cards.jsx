@@ -7,7 +7,7 @@ import image3 from '../assets/klima.webp';
 function Cards() {
     return (
         <div classname="cardss">
-            <h1 style={{color : "#404040", textAlign : "center", marginTop : "15%", fontWeight : "bold"}}><span>/ </span>Services we offer<span> /</span></h1>
+            <h1 style={{color : "#404040", textAlign : "center", marginTop : "10%", fontWeight : "bold"}}><span>/ </span>Services we offer<span> /</span></h1>
         <div className='cards'>
             <div className='card2'>
                 <img src={image1}/>

@@ -13,8 +13,8 @@ const Landing = () => {
         <div>
             <Navbar/>
             <Home/>
+            <Cards/>    
             <Choose/>
-            <Cards/>
             <More/>
             <Gallery/>
             <HomeContact/>

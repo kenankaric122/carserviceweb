@@ -5,7 +5,7 @@ import image from '../assets/supra.jpg'
 function More() {
     return (
         <div className='more1'>
-            <h1 style={{color : "#404040", textAlign : "center", marginTop : "15%", fontWeight : "bold"}}><span>/ </span>About car services<span> /</span></h1>
+            <h1 style={{color : "#404040", textAlign : "center", marginTop : "10%", fontWeight : "bold"}}><span>/ </span>About car services<span> /</span></h1>
         <div className='more'>
             <div className='img1'></div>
             <div className='text1'>
