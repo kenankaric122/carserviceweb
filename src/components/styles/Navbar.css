@@ -43,7 +43,15 @@ nav ul li .link{
 
 @media only screen and (max-width: 600px) {
 
+    nav{
+        visibility: hidden;
+    }
+
     nav ul li {
+        visibility: hidden;
+    }
+
+    nav .logo{
         visibility: hidden;
     }
   }
