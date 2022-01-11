@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import ResHome from '../components/ResHome';
 import Form from '../components/Form';
 import Footer from '../components/Footer';
+import Location from '../components/Location';
 
 function Reservations() {
     return (
@@ -10,6 +11,7 @@ function Reservations() {
             <Navbar/>
             <ResHome/>
             <Form/>
+            <Location/>
             <Footer/>
         </div>
     )
