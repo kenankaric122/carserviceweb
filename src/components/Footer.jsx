@@ -47,7 +47,7 @@ function Footer() {
                 <h1>Informations</h1><br/>
             <FontAwesomeIcon icon={faAddressCard} className='icons'/>  2222 New York, Central Park <br/>
             <FontAwesomeIcon icon={faAddressCard} className='icons'/>  1200 USA  <br/>
-            <FontAwesomeIcon icon={faMailBulk} className='icons'/>  https://gmail.com  <br/>
+            <FontAwesomeIcon icon={faMailBulk} className='icons'/>  gmail.com <br/>
             <FontAwesomeIcon icon={faPhone} className='icons'/>  +85 8854 7875  <br/>
             </div>
 

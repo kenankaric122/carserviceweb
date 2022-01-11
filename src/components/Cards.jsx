@@ -12,17 +12,17 @@ function Cards() {
             <div className='card2'>
                 <img src={image1}/>
                 <h2>Oil and oil filter service</h2>
-                <p>To maximize the protection of your vehicle,<br/> you should regularly change the oil and oil filter,<br/> at least every 3 months. <br/>Our auto technicians can easily help you.</p>
+                <p>To maximize the protection of your vehicle,<br/> you should regularly change the oil and oil filter,<br/> at least every 3 months. Our auto <br/>technicians can easily help you.</p>
             </div>
             <div className='card2'>
                 <img src={image3}/>
                 <h2>Air conditioning service</h2>
-                <p>To maximize the protection of your vehicle,<br/> you should regularly change the oil and oil filter,<br/> at least every 3 months. <br/>Our auto technicians can easily help you.</p>
+                <p>To maximize the protection of your vehicle,<br/> you should regularly change the oil and oil filter,<br/> at least every 3 months. Our auto <br/>technicians can easily help you.</p>
             </div>
             <div className='card2'>
                 <img src={image2}/>
                 <h2>Cooling system service</h2>
-                <p>To maximize the protection of your vehicle,<br/> you should regularly change the oil and oil filter,<br/> at least every 3 months. <br/>Our auto technicians can easily help you.</p>
+                <p>To maximize the protection of your vehicle,<br/> you should regularly change the oil and oil filter,<br/> at least every 3 months. Our auto <br/>technicians can easily help you.</p>
             </div>
         </div>
         </div>

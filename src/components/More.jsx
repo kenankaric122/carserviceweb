@@ -9,7 +9,7 @@ function More() {
         <div className='more'>
             <div className='img1'></div>
             <div className='text1'>
-            <span style={{color : "#404040", fontWeight : "bold", fontSize : "24px"}}>About car services <br/><br/></span>
+            <span style={{color : "#404040", fontSize : "24px"}}>About car services <br/><br/></span>
             A car service is a health check with routine maintenance for your vehicle which assesses everything from your engine’s fluid levels to the general wear and tear of your car. 
             A service is usually undertaken by a mechanic and the most in-depth of them involve around 50 or more system and component checks, adjustments and parts replacement.
         </div>

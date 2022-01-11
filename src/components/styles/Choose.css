@@ -44,13 +44,12 @@
 .choose .icons p{
     margin-left: 1%;
     color: #23214b;
-    font-weight: bold;
 }
 
 .choose1 .icons p{
     margin-left: 1%;
     color: #23214b;
-    font-weight: bold;
+
 }
 
 @media only screen and (max-width: 600px) {
