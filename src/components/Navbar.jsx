@@ -24,7 +24,7 @@ const Navbar = () => {
         <Link to = '/' className='link'><img className='logo' src={logo} alt='logo'/></Link>    
             <ul>
                 <li><Link to = '/' className='link'>Home</Link></li>
-                <li><Link to = '/reservations' className='link'>Reservations</Link></li>
+                <li><Link to = '/reservations' className='link'>Contact us</Link></li>
                 <li><Link to = '/gallery' className='link'>Gallery</Link></li>
                 <li><Link to = '/aboutus' className='link'>About us</Link></li>
             </ul>

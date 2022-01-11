@@ -28,7 +28,7 @@ function Footer() {
             <br/><br/>
                 <h1>Quicklink</h1><br/>
                 <button><Link to = '/' className='link'>Home</Link></button><br/>
-                <button><Link to = '/reservations' className='link'>Reservations</Link></button><br/>
+                <button><Link to = '/reservations' className='link'>Contact us</Link></button><br/>
                 <button><Link to = '/gallery' className='link'>Gallery</Link></button><br/>
                 <button><Link to = '/aboutus' className='link'>About us</Link></button><br/>
             </div>
