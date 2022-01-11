@@ -1,0 +1,23 @@
+.abouthome{
+    background:linear-gradient(rgba(20, 20, 20, 0.7 ), rgba(255, 0, 0, 0.63)), url('../../assets/wallpaper4.jpg');
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.abouthometxt{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+h3{
+    font-size: 18px;
+    color: rgb(184, 184, 184);
+}
