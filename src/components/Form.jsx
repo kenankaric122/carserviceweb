@@ -10,10 +10,11 @@ export default function Form() {
   return (
     <div className='form11'>
     <h1 style={{color : "#404040", textAlign : "center", marginTop : "5%", fontWeight : "bold"}}><br/><br/><span>/ </span>Fill out this form <span> /</span></h1>
+    <h1 style={{color : "#404040", textAlign : "center", fontSize : "15px"}}><br/><br/>If you have any car issue or simply need a tune-up, make an appointment with our professional team today!</h1>
     <div className='form1'>
     <div className='img1'></div>
     <form onSubmit={handleSubmit(onSubmit)}><br/><br/>
-      <text className='naslov'>Contact us</text><br/>
+      <text className='naslov'>Contact us</text><br/> 
       <input type="text" className='inps' placeholder="First name" {...register("First name", {required: true, maxLength: 80})} /><br/>
       <input type="text" className='inps' placeholder="Last name" {...register("Last name", {required: true, maxLength: 100})} /><br/>
       <select className='inps2' placeholder='Select Car model' {...register("Car Model", { required: true })}>
