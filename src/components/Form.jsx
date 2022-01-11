@@ -14,7 +14,7 @@ export default function Form() {
     <div className='form1'>
     <div className='img1'></div>
     <form onSubmit={handleSubmit(onSubmit)}><br/><br/>
-      <text className='naslov'>Contact us</text><br/> 
+      <text className='naslov'>/ Contact us /</text><br/> 
       <input type="text" className='inps' placeholder="First name" {...register("First name", {required: true, maxLength: 80})} /><br/>
       <input type="text" className='inps' placeholder="Last name" {...register("Last name", {required: true, maxLength: 100})} /><br/>
       <select className='inps2' placeholder='Select Car model' {...register("Car Model", { required: true })}>
