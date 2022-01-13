@@ -8,7 +8,7 @@ import image4 from '../assets/w4.jpg';
 function Works() {
     return (
         <div className='w1'>
-        <h1 style={{color : "#404040", textAlign : "center", marginTop : "15%", fontWeight : "bold"}}><span>/ </span>How it works<span> /</span></h1>
+        <h1 style={{color : "#404040", textAlign : "center", marginTop : "8%", fontWeight : "bold"}}><span>/ </span>How it works<span> /</span></h1>
         <div className='works'>
             <div className='card2'>
                 <img src={image1}/>
