@@ -8,7 +8,7 @@ import HomeContact from '../components/HomeContact'
 import Specials from '../components/Specials'
 import Choose from '../components/Choose'
 import Footer from '../components/Footer'
-import Team from '../components/Team'
+import Experience from '../components/Experience'
 
 const Landing = () => {
     return (
@@ -20,6 +20,7 @@ const Landing = () => {
             <More/>
             <Gallery/>
             <HomeContact/>
+            <Experience/>
             <Specials/>
             <Footer/>
         </div>
