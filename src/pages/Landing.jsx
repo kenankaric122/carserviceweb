@@ -20,7 +20,6 @@ const Landing = () => {
             <More/>
             <Gallery/>
             <HomeContact/>
-            <Team/>
             <Specials/>
             <Footer/>
         </div>

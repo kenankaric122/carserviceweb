@@ -3,6 +3,8 @@ import { useState } from 'react';
 import './styles/Navbar.css';
 import logo from '../assets/logo.svg'
 import { Link } from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAddressCard, faHome, faIdBadge, faImage } from '@fortawesome/free-solid-svg-icons';
 
 const Navbar = () => {
     
@@ -23,10 +25,10 @@ const Navbar = () => {
         <nav className={navbar ? 'navbar active' : 'navbar'}>
         <Link to = '/' className='link'><img className='logo' src={logo} alt='logo'/></Link>    
             <ul>
-                <li><Link to = '/' className='link'>Home</Link></li>
-                <li><Link to = '/reservations' className='link'>Contact us</Link></li>
-                <li><Link to = '/gallery' className='link'>Gallery</Link></li>
-                <li><Link to = '/aboutus' className='link'>About us</Link></li>
+                <li><Link to = '/' className='link'><FontAwesomeIcon icon = {faHome}/>ㅤHome</Link></li>
+                <li><Link to = '/reservations' className='link'><FontAwesomeIcon icon = {faIdBadge}/>ㅤContact us</Link></li>
+                <li><Link to = '/gallery' className='link'><FontAwesomeIcon icon = {faImage}/>ㅤGallery</Link></li>
+                <li><Link to = '/aboutus' className='link'><FontAwesomeIcon icon = {faAddressCard}/>ㅤAbout us</Link></li>
             </ul>
         </nav>
     )

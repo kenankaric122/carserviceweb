@@ -7,6 +7,7 @@ import Works from '../components/Works';
 import HomeContact from '../components/HomeContact';
 import Experience from '../components/Experience';
 import Testimonials from '../components/Testimonials';
+import Location from '../components/Location';
 
 function Aboutus() {
     return (
@@ -18,6 +19,7 @@ function Aboutus() {
             <HomeContact/>
             <Experience/>
             <Testimonials/>
+            <Location/>
             <Footer/>   
         </div>
     )

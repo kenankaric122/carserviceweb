@@ -17,6 +17,8 @@
 }
 
 .team1 .slike1 p{
+    visibility: hidden;
+    flex-direction: column;
     margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
