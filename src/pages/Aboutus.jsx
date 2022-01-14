@@ -8,6 +8,7 @@ import HomeContact from '../components/HomeContact';
 import Experience from '../components/Experience';
 import Testimonials from '../components/Testimonials';
 import Location from '../components/Location';
+import Cards from '../components/Cards';
 
 function Aboutus() {
     return (
@@ -19,6 +20,7 @@ function Aboutus() {
             <HomeContact/>
             <Experience/>
             <Testimonials/>
+            <Cards/>
             <Location/>
             <Footer/>   
         </div>
