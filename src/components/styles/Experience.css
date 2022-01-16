@@ -10,7 +10,7 @@
 
 .experience .img1{
 
-    background:linear-gradient(rgba(20, 20, 20, 0.7 ), rgba(255, 30, 30, 0.288)), url('../../assets/ex.jpg');
+    background:linear-gradient(rgba(20, 20, 20, 0.7 ), rgba(255, 0, 0, 0.514)), url('../../assets/ex.jpg');
     margin-right: 10%;
     height: 100%;
     flex: 45%;
