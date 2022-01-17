@@ -33,3 +33,10 @@
     color: rgb(92, 92, 92);
 
 }
+
+@media only screen and (max-width: 600px) {
+
+    .w1{
+        display: none;
+    }
+  }
