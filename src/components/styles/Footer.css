@@ -54,3 +54,16 @@
     margin-top: 60%;
     width: 100px;
 }
+
+@media only screen and (max-width: 600px) {
+
+    .footer{
+        flex-direction: column;
+        height: 170vh;
+    }
+    
+    .f1 .logo{
+        visibility: hidden;
+        display: none;
+    }
+  }
