@@ -96,6 +96,10 @@ form .naslov1{
         width: 26%;
     }
 
+    .form1 .img1{
+        height: 50%;
+    }
+
     .form1 .btn{
         width: 150px;
     }
