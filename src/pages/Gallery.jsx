@@ -7,7 +7,7 @@ import GalleryImg from '../components/GalleryImg'
 
 function Gallery() {
     return (
-        <div>
+        <div style={{backgroundColor : 'rgb(220,220,220)'}}>
             <Navbar/>
             <GalHome/>
             <GalleryText/>

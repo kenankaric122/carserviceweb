@@ -3,4 +3,14 @@
     margin-right: 10%;
     margin-left: 10%;
     margin-bottom: 10%;
+    color: rgb(58, 58, 58);
 }
+
+@media only screen and (max-width: 600px) {
+
+    .gallerytext h1{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+  }

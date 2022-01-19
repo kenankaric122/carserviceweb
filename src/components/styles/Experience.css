@@ -35,3 +35,13 @@
 
 }
 
+@media only screen and (max-width: 600px) {
+
+    .experience .text1{
+        text-align: left;
+        font-size: 16px;
+    }
+
+  }
+
+

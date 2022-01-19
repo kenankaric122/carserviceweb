@@ -5,12 +5,12 @@ import image2 from '../assets/w2.jpg';
 import image3 from '../assets/w3.jpg';
 import image4 from '../assets/w4.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCalendarCheck, faCar, faCheckSquare, faTools } from '@fortawesome/free-solid-svg-icons';
+import { faCalendarCheck, faCar, faCheckSquare, faToolbox, faTools } from '@fortawesome/free-solid-svg-icons';
 
 function Works() {
     return (
         <div className='w1'>
-        <h1 style={{color : "#404040", textAlign : "center", marginTop : "8%", fontWeight : "bold"}}><span>/ </span>How it works<span> /</span></h1>
+        <h1 style={{color : "#404040", textAlign : "center", marginTop : "8%", fontWeight : "bold"}}><span>/ </span><FontAwesomeIcon icon = {faToolbox} color='#ba382f'/>  How it works  <FontAwesomeIcon icon = {faToolbox} color='#ba382f'/><span> /</span></h1>
         <div className='works'>
             <div className='card2'>
                 <img src={image1}/>

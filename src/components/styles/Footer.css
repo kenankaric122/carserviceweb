@@ -60,6 +60,7 @@
     .footer{
         flex-direction: column;
         height: 170vh;
+        background-image: radial-gradient( circle farthest-corner at -4% -12.9%,  rgb(44, 44, 44) 0.3%, rgb(44, 44, 44) 90.2% );
     }
     
     .f1 .logo{
