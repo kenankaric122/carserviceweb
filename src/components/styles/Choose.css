@@ -54,20 +54,5 @@
 
 @media only screen and (max-width: 600px) {
 
-    .choose1 .icons{
-        flex-direction: column;
-    }
-
-    .choose .icons{
-        flex-direction: column;
-    }
-
-    .choose{
-        flex-direction: column;
-    }
-
-    .choose1{
-        flex-direction: column;
-    }
 
   }

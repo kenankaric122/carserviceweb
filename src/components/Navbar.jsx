@@ -4,7 +4,7 @@ import './styles/Navbar.css';
 import logo from '../assets/logo.svg'
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAddressCard, faHome, faIdBadge, faImage } from '@fortawesome/free-solid-svg-icons';
+import { faAddressCard, faBars, faHome, faIdBadge, faImage } from '@fortawesome/free-solid-svg-icons';
 
 const Navbar = () => {
     
@@ -30,6 +30,7 @@ const Navbar = () => {
                 <li><Link to = '/gallery' className='link'><FontAwesomeIcon icon = {faImage}/>ㅤGallery</Link></li>
                 <li><Link to = '/aboutus' className='link'><FontAwesomeIcon icon = {faAddressCard}/>ㅤAbout us</Link></li>
             </ul>
+        <FontAwesomeIcon icon = {faBars} className='menu'/>
         </nav>
     )
 }
