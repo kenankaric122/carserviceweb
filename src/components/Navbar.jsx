@@ -19,6 +19,9 @@ const Navbar = () => {
         }
     }
 
+    const [click, setClick] = useState(false);
+    const handleClick = () => setClick(!click);
+
     window.addEventListener('scroll', changeBg);
 
     return (
@@ -30,7 +33,7 @@ const Navbar = () => {
                 <li><Link to = '/gallery' className='link'><FontAwesomeIcon icon = {faImage}/>ㅤGallery</Link></li>
                 <li><Link to = '/aboutus' className='link'><FontAwesomeIcon icon = {faAddressCard}/>ㅤAbout us</Link></li>
             </ul>
-        <FontAwesomeIcon icon = {faBars} className='menu'/>
+        <FontAwesomeIcon icon = {faBars} className='menu' onClick={handleClick}/>
         </nav>
     )
 }
