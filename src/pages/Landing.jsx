@@ -9,6 +9,7 @@ import Specials from '../components/Specials'
 import Choose from '../components/Choose'
 import Footer from '../components/Footer'
 import Experience from '../components/Experience'
+import Footer1 from '../components/Footer1'
 
 const Landing = () => {
     return (
@@ -23,6 +24,7 @@ const Landing = () => {
             <Experience/>
             <Specials/>
             <Footer/>
+            <Footer1/>
         </div>
     )
 }

@@ -50,7 +50,6 @@ function Footer() {
             <FontAwesomeIcon icon={faMailBulk} className='icons'/>  gmail.com <br/>
             <FontAwesomeIcon icon={faPhone} className='icons'/>  +85 8854 7875  <br/>
             </div>
-
         </div>
     )
 }
