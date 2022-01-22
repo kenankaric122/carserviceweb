@@ -9,6 +9,7 @@ import Experience from '../components/Experience';
 import Testimonials from '../components/Testimonials';
 import Location from '../components/Location';
 import Cards from '../components/Cards';
+import Footer1 from '../components/Footer1';
 
 function Aboutus() {
     return (
@@ -22,7 +23,8 @@ function Aboutus() {
             <Testimonials/>
             <Cards/>
             <Location/>
-            <Footer/>   
+            <Footer/>  
+            <Footer1/> 
         </div>
     )
 }

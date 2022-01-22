@@ -4,6 +4,7 @@ import GalHome from '../components/GalHome'
 import GalleryText from '../components/GalleryText'
 import Footer from '../components/Footer'
 import GalleryImg from '../components/GalleryImg'
+import Footer1 from '../components/Footer1'
 
 function Gallery() {
     return (
@@ -13,6 +14,7 @@ function Gallery() {
             <GalleryText/>
             <GalleryImg/>
             <Footer/>
+            <Footer1/>
         </div>
     )
 }

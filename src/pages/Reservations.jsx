@@ -4,6 +4,8 @@ import ResHome from '../components/ResHome';
 import Form from '../components/Form';
 import Footer from '../components/Footer';
 import Location from '../components/Location';
+import Touch from '../components/Touch';
+import Footer1 from '../components/Footer1';
 
 function Reservations() {
     return (
@@ -11,8 +13,10 @@ function Reservations() {
             <Navbar/>
             <ResHome/>
             <Form/>
+            <Touch/>
             <Location/>
             <Footer/>
+            <Footer1/>
         </div>
     )
 }
